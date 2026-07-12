@@ -47,7 +47,7 @@ Memory represented as a flat sequence, textual summary, note, trajectory, or exp
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-External-blue) ![](https://img.shields.io/badge/-Textual-blue) ![](https://img.shields.io/badge/-Procedural-yellowgreen) ![](https://img.shields.io/badge/-Prompt_based-orange)
 
 1. **🆕 Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations**\
-   Nuo Chen, Hongguang Li, Jianhui Chang, et al. *COLING 2025*. [[Paper](https://arxiv.org/abs/2402.11975)] [[Code](https://github.com/nuochenpku/COMEDY)]\
+   Nuo Chen, Hongguang Li, Juhua Huang, et al. *COLING 2025*. [[Paper](https://arxiv.org/abs/2402.11975)] [[Code](https://github.com/nuochenpku/COMEDY)]\
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-External-blue) ![](https://img.shields.io/badge/-Textual-blue) ![](https://img.shields.io/badge/-Episodic-green) ![](https://img.shields.io/badge/-Compression-orange)
 
 1. **🆕 ExpeL: LLM Agents Are Experiential Learners**\
@@ -141,7 +141,7 @@ Memory organized as entities, relations, notes, events, or episodes connected by
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-External-blue) ![](https://img.shields.io/badge/-Graph-purple) ![](https://img.shields.io/badge/-Semantic-green) ![](https://img.shields.io/badge/-SFT-orange)
 
 1. **Zep: A Temporal Knowledge Graph Architecture for Agent Memory**\
-   Preston Rasmussen, Pavlo Paliychuk, Travis Beauvais, Jack Ryan. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2501.13956)] [[Code](https://github.com/getzep/graphiti)]\
+   Preston Rasmussen, Pavlo Paliychuk, Travis Beauvais, Jack Ryan, Daniel Chalef. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2501.13956)] [[Code](https://github.com/getzep/graphiti)]\
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-External-blue) ![](https://img.shields.io/badge/-Graph-purple) ![](https://img.shields.io/badge/-Semantic-green) ![](https://img.shields.io/badge/-Temporal-orange)
 
 1. **🆕 On the Structural Memory of LLM Agents**\
@@ -183,7 +183,7 @@ Memory organized across levels, layers, trees, subgoals, or progressively abstra
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-External-blue) ![](https://img.shields.io/badge/-Hierarchical-purple) ![](https://img.shields.io/badge/-Semantic-green) ![](https://img.shields.io/badge/-Retrieval-green)
 
 1. **🆕 FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design**\
-   Yangyang Yu, Haohang Li, Zhi Chen, et al. *arXiv 2023*. [[Paper](https://arxiv.org/abs/2311.13743)] [[Code](https://github.com/pipiku915/FinMem-LLM-StockTrading)]\
+   Yangyang Yu, Haohang Li, Zhi Chen, et al. *AAAI Spring Symposium 2024*. [[Paper](https://arxiv.org/abs/2311.13743)] [[Code](https://github.com/pipiku915/FinMem-LLM-StockTrading)]\
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-External-blue) ![](https://img.shields.io/badge/-Hierarchical-purple) ![](https://img.shields.io/badge/-Episodic-green) ![](https://img.shields.io/badge/-Domain_Agent-purple)
 
 [⬆️ top](#table-of-contents)
@@ -217,7 +217,7 @@ Systems combining multiple memory representations, stores, modalities, time scal
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-Hybrid-purple) ![](https://img.shields.io/badge/-Composite-purple) ![](https://img.shields.io/badge/-Multimodal-purple) ![](https://img.shields.io/badge/-Long_Horizon-purple)
 
 1. **🆕 JARVIS-1: Open-World Multi-Task Agents with Memory-Augmented Multimodal Language Models**\
-   Zihao Wang, Shaofei Cai, Anji Liu, et al. *IEEE TPAMI 2024*. [[Paper](https://arxiv.org/abs/2311.05997)] [[Code](https://github.com/CraftJarvis/JARVIS-1)]\
+   Zihao Wang, Shaofei Cai, Anji Liu, et al. *IEEE TPAMI 2025*. [[Paper](https://arxiv.org/abs/2311.05997)] [[Code](https://github.com/CraftJarvis/JARVIS-1)]\
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-Hybrid-purple) ![](https://img.shields.io/badge/-Composite-purple) ![](https://img.shields.io/badge/-Multimodal-purple) ![](https://img.shields.io/badge/-Procedural-yellowgreen)
 
 1. **MemGPT: Towards LLMs as Operating Systems**\
@@ -255,7 +255,7 @@ Foundational retrieval, reasoning, reflection, and context-management methods co
    ![](https://img.shields.io/badge/-Baseline-lightgrey) ![](https://img.shields.io/badge/-Prompt_based-orange) ![](https://img.shields.io/badge/-Working-purple) ![](https://img.shields.io/badge/-Reasoning-yellowgreen) ![](https://img.shields.io/badge/-Tool_Use-purple)
 
 1. **Unsupervised Dense Information Retrieval with Contrastive Learning**\
-   Gautier Izacard, Mathilde Caron, Lucas Hosseini, et al. *ICLR 2022*. [[Paper](https://arxiv.org/abs/2112.09118)] [[Code](https://github.com/facebookresearch/contriever)]\
+   Gautier Izacard, Mathilde Caron, Lucas Hosseini, et al. *TMLR 2022*. [[Paper](https://arxiv.org/abs/2112.09118)] [[Code](https://github.com/facebookresearch/contriever)]\
    ![](https://img.shields.io/badge/-Baseline-lightgrey) ![](https://img.shields.io/badge/-External-blue) ![](https://img.shields.io/badge/-Dense_Retrieval-blue) ![](https://img.shields.io/badge/-Training_free-orange) ![](https://img.shields.io/badge/-Embedding-blue)
 
 1. **🆕 Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**\
