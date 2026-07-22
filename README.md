@@ -1072,8 +1072,6 @@ Memory organized as entities, relations, notes, events, or episodes connected by
    Zheng Wang, Zhongyang Li, Zeren Jiang, et al. *EMNLP 2024*. [[Paper](https://arxiv.org/abs/2409.19401)]\
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-External-blue) ![](https://img.shields.io/badge/-Graph-purple) ![](https://img.shields.io/badge/-Semantic-green) ![](https://img.shields.io/badge/-Personalization-green)
 
-[⬆️ top](#table-of-contents)
-
 1. **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**\
    Bernal Jiménez Gutiérrez, Yiheng Shu, Yu Gu, et al. *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2405.14831)] [[Code](https://github.com/OSU-NLP-Group/HippoRAG)] [[Dataset](https://github.com/OSU-NLP-Group/HippoRAG)]\
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-External-blue) ![](https://img.shields.io/badge/-Graph-purple) ![](https://img.shields.io/badge/-Episodic-green) ![](https://img.shields.io/badge/-Training_free-orange)
@@ -1081,6 +1079,8 @@ Memory organized as entities, relations, notes, events, or episodes connected by
 1. **On the Structural Memory of LLM Agents**\
    Ruihong Zeng, Jinyuan Fang, Siwei Liu, Zaiqiao Meng. *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.15266)]\
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-External-blue) ![](https://img.shields.io/badge/-Graph-purple) ![](https://img.shields.io/badge/-Semantic-green) ![](https://img.shields.io/badge/-Multi_Hop-blue)
+
+[⬆️ top](#table-of-contents)
 
 #### 1.2.2 Hierarchical Memory
 
@@ -1318,11 +1318,11 @@ Memory organized across levels, layers, trees, subgoals, or progressively abstra
    Yangyang Yu, Haohang Li, Zhi Chen, et al. *AAAI Spring Symposium 2024*. [[Paper](https://arxiv.org/abs/2311.13743)] [[Code](https://github.com/pipiku915/FinMem-LLM-StockTrading)]\
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-External-blue) ![](https://img.shields.io/badge/-Hierarchical-purple) ![](https://img.shields.io/badge/-Episodic-green) ![](https://img.shields.io/badge/-Domain_Agent-purple)
 
-[⬆️ top](#table-of-contents)
-
 1. **Enhancing Long-Term Memory using Hierarchical Aggregate Tree for Retrieval Augmented Generation**\
    Aadharsh Aadhithya A, Sachin Kumar S, Soman K. P. *arXiv 2024*. [[Paper](https://arxiv.org/abs/2406.06124)]\
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-External-blue) ![](https://img.shields.io/badge/-Hierarchical-purple) ![](https://img.shields.io/badge/-Semantic-green) ![](https://img.shields.io/badge/-Tree_Memory-purple)
+
+[⬆️ top](#table-of-contents)
 
 ### 1.3 Composite Memory Systems
 
@@ -1836,11 +1836,11 @@ Systems combining multiple memory representations, stores, modalities, time scal
    Taewoon Kim, Michael Cochez, Vincent François-Lavet, et al. *AAAI 2023*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25075)]\
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-External-blue) ![](https://img.shields.io/badge/-Composite-purple) ![](https://img.shields.io/badge/-Graph-purple) ![](https://img.shields.io/badge/-RL_based-orange)
 
-[⬆️ top](#table-of-contents)
-
 1. **MemGPT: Towards LLMs as Operating Systems**\
    Charles Packer, Sarah Wooders, Kevin Lin, et al. *arXiv 2023*. [[Paper](https://arxiv.org/abs/2310.08560)] [[Code](https://github.com/letta-ai/letta)]\
    ![](https://img.shields.io/badge/-Method-lightgrey) ![](https://img.shields.io/badge/-Hybrid-purple) ![](https://img.shields.io/badge/-Composite-purple) ![](https://img.shields.io/badge/-Memory_OS-purple) ![](https://img.shields.io/badge/-Read_Write-orange)
+
+[⬆️ top](#table-of-contents)
 
 ### 1.4 Baselines and Supporting Methods
 
@@ -2084,11 +2084,11 @@ Benchmarks centered on answer quality, task success, action correctness, or end-
    Shuyan Zhou, Frank F. Xu, Hao Zhu, et al. *ICLR 2024*. [[Paper](https://arxiv.org/abs/2307.13854)] [[Code](https://github.com/web-arena-x/webarena)] [[Dataset](https://github.com/web-arena-x/webarena)]\
    ![](https://img.shields.io/badge/-Benchmark-lightgrey) ![](https://img.shields.io/badge/-Effectiveness-green) ![](https://img.shields.io/badge/-Web-purple) ![](https://img.shields.io/badge/-Interactive-green) ![](https://img.shields.io/badge/-Long_Horizon-purple)
 
-[⬆️ top](#table-of-contents)
-
 1. **MemSim: A Bayesian Simulator for Evaluating Memory of LLM-based Personal Assistants**\
    Zeyu Zhang, Quanyu Dai, Luyu Chen, et al. *arXiv 2024*. [[Paper](https://arxiv.org/abs/2409.20163)] [[Code](https://github.com/nuster1128/MemSim)] [[Dataset](https://github.com/nuster1128/MemSim)]\
    ![](https://img.shields.io/badge/-Benchmark-lightgrey) ![](https://img.shields.io/badge/-Effectiveness-green) ![](https://img.shields.io/badge/-Personalization-green) ![](https://img.shields.io/badge/-QA-blue) ![](https://img.shields.io/badge/-Simulation-purple)
+
+[⬆️ top](#table-of-contents)
 
 ### 2.2 Retrieval Evaluation
 
@@ -2342,11 +2342,11 @@ Benchmarks and studies exposing latency, token use, context scaling, constructio
    Haoran Tan, Zeyu Zhang, Chen Ma, et al. *ACL 2025 Findings*. [[Paper](https://arxiv.org/abs/2506.21605)] [[Code](https://github.com/import-myself/Membench)] [[Dataset](https://github.com/import-myself/Membench)]\
    ![](https://img.shields.io/badge/-53K_questions-lightgrey) ![](https://img.shields.io/badge/-65K_sessions-lightgrey) ![](https://img.shields.io/badge/-latency-red) ![](https://img.shields.io/badge/-capacity-orange) ![](https://img.shields.io/badge/-memory_overhead-yellowgreen)
 
-[⬆️ top](#table-of-contents)
-
 1. **Beyond a Million Tokens: Benchmarking and Enhancing Long-Term Memory in LLMs**\
    Mohammad Tavakoli, Alireza Salemi, Carrie Ye, et al. *arXiv 2025*. [[Paper](https://arxiv.org/abs/2510.27246)]\
    ![](https://img.shields.io/badge/-Evaluation-lightgrey) ![](https://img.shields.io/badge/-Efficiency-red) ![](https://img.shields.io/badge/-Agent_Memory-purple) ![](https://img.shields.io/badge/-Episodic-green) ![](https://img.shields.io/badge/-Memory_Management-orange)
+
+[⬆️ top](#table-of-contents)
 
 ## 3. Surveys, Tutorials, and Position Papers
 
@@ -2438,11 +2438,11 @@ Benchmarks and studies exposing latency, token use, context scaling, constructio
    Theodore R. Sumers, Shunyu Yao, Karthik Narasimhan, Thomas L. Griffiths. *TMLR 2024*. [[Paper](https://arxiv.org/abs/2309.02427)] [[Code](https://github.com/ysymyth/awesome-language-agents)]\
    ![](https://img.shields.io/badge/-Position_Paper-lightgrey) ![](https://img.shields.io/badge/-Tutorial-lightgrey) ![](https://img.shields.io/badge/-Cognitive_Architecture-yellowgreen) ![](https://img.shields.io/badge/-Modular_Memory-purple)
 
-[⬆️ top](#table-of-contents)
-
 1. **Human-inspired Perspectives: A Survey on AI Long-term Memory**\
    Zihong He, Weizhe Lin, Hao Zheng, et al. *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.00489)]\
    ![](https://img.shields.io/badge/-Survey-lightgrey) ![](https://img.shields.io/badge/-Long_Term_Memory-purple) ![](https://img.shields.io/badge/-Human_Memory-purple) ![](https://img.shields.io/badge/-Cognitive_Architecture-yellowgreen)
+
+[⬆️ top](#table-of-contents)
 
 ## 4. Frameworks, Products, and Resources
 
